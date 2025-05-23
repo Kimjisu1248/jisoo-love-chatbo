@@ -1,1 +1,0 @@
-export default function App() { return <h1>지수공주님 연애 챗봇 시작 🎉</h1>; }
